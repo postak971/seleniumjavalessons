@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="ArraySuite">
+  <test thread-count="5" name="ArrayTest2D">
+    <classes>
+      <class name="udemy.Array3D"/>
+      <class name="udemy.Array2D"/>
+    </classes>
+  </test> <!-- ArrayTest -->
+  <test thread-count="5" name="ArrayTest3D">
+    <classes>
+        <class name="udemy.Array2D"/>
+    </classes>
+  </test> <!-- ArrayTest -->
+</suite> <!-- ArraySuite -->

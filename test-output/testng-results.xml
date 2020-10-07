@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41" started-at="2020-09-20T09:09:57 CDT" finished-at="2020-09-20T09:09:57 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41" started-at="2020-09-20T09:09:57 CDT" finished-at="2020-09-20T09:09:57 CDT">
+      <class name="udemy.Array2D">
+        <test-method status="PASS" signature="twoDAarry()[pri:0, instance:udemy.Array2D@5bc79255]" name="twoDAarry" duration-ms="6" started-at="2020-09-20T09:09:57 CDT" finished-at="2020-09-20T09:09:57 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- twoDAarry -->
+      </class> <!-- udemy.Array2D -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

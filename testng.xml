@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Functional Suite">
+  <test name="TestAssert">
+    <classes>
+      <class name="udemy.TestAssert"/>
+      
+    </classes>
+  </test> <!-- Test -->
+  <test name="DependencyTest">
+    <classes>
+   
+      <class name="udemy.DependencyTest"/>
+     
+    </classes>
+  </test> <!-- Test -->
+  <test name="MouseOverTest">
+    <classes>
+     
+      <class name="udemy.MouseOverTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
